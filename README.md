@@ -1,3 +1,3 @@
-ワンダーランズ×ショウタイム
+<div><span style="color: #ffb45d">ワ</span><span style="color: #ffb75f">ン</span><span style="color: #ffba61">ダ</span><span style="color: #ffbd62">ー</span><span style="color: #ffc064">ラ</span><span style="color: #ffc366">ン</span><span style="color: #ffc668">ズ</span><span style="color: #ffc969">×</span><span style="color: #ffcc6b">シ</span><span style="color: #ffcf6d">ョ</span><span style="color: #ffd26f">ウ</span><span style="color: #ffd570">タ</span><span style="color: #ffd872">イ</span><span style="color: #ffdb74">ム</span></div>
 
 ![image alt](https://github.com/EY3L1D/wondershow/blob/e39955e6347ce62d9177237cbc360ad8b7a9e9b8/wxs.png)
